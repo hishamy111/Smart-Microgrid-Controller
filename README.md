@@ -55,6 +55,14 @@ The controller continuously monitors solar, wind, and battery power, automatical
 
 ---
 
+## Demo Video
+
+Watch the project demonstration here:
+
+https://youtu.be/Ef9eAdYFFFM
+
+---
+
 ## Author
 
 Mohammed Hisham
